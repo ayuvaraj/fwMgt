@@ -1,2 +1,2 @@
 # fwMgt
-Managing Juniper Firewall devices using open source protocol
+Managing Firewall devices using open source protocol NETCONF
